@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abdelrahman%20Flous&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=AI%20Student%20%7C%20Menoufia%20University&descColor=a0a0b0&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <br>
 
@@ -157,8 +158,4 @@ me.say_hi()
 </div>
 ```
 
-> ⚠️ **ملحوظة مهمة:** السطر اللي فيه ` ` ` (بمسافات) — لازم تشيل المسافات وتخليه ` ``` ` عادي عشان الـ code block يشتغل صح على GitHub.
-
-انسخه كله وحطه في الـ README وبعدين اضغط **Commit changes** ✅🚀
-
-انسخه كله وحطه في الـ README على GitHub وبعدين اضغط **Commit changes** ✅
+> ⚠️ **مهم:** السطر ` ` ` (بمسافات) — شيل المسافات وخليه ` ``` ` عادي عشان الـ code block يشتغل صح. ✅
