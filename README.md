@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="45%"/>
+&nbsp;&nbsp;&nbsp;
+<h1>I am Abdelrahman Mohamed Flous</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <br>
@@ -158,4 +161,4 @@ me.say_hi()
 </div>
 ```
 
-> ⚠️ **مهم:** السطر ` ` ` (بمسافات) — شيل المسافات وخليه ` ``` ` عادي عشان الـ code block يشتغل صح. ✅
+> ⚠️ **مهم:** السطر ` ` ` شيل المسافات وخليه ` ``` ` عادي. ✅
