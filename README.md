@@ -40,10 +40,6 @@ class AbdelrahmanFlous:
         self.university  = "🏛️  Menoufia University"
         self.faculty     = "🤖  Artificial Intelligence"
         self.languages   = ["🐍  Python", "⚡  C++"]
-        self.interests   = [
-            "📊  Data Science",
-            "🤖  Artificial Intelligence"
-        ]
         self.currently   = "Exploring the depths of AI 🚀"
         self.contact     = "flostheking27@gmail.com"
         self.motto       = "Code. Learn. Innovate. Repeat."
@@ -65,17 +61,8 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Tools & Editors
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🛠️ Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -98,7 +85,7 @@ me.say_hi()
   </tr>
   <tr>
     <td>💬 Ask me about</td>
-    <td><strong>AI & Data Science</strong></td>
+    <td><strong>Artificial Intelligence</strong></td>
   </tr>
   <tr>
     <td>📫 Reach me</td>
@@ -154,6 +141,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-> ⚠️ **مهم:** السطر ` ` ` شيل المسافات وخليه ` ``` ` عادي. ✅
