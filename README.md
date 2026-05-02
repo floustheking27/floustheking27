@@ -8,7 +8,13 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+Artificial+Intelligence+Student;🧠+Machine+Learning+Enthusiast;👁️+Computer+Vision+Explorer;🔬+Deep+Learning+Researcher;💡+Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+Artificial+Intelligence+Student;💡+Building+the+Future+with+AI;🐍+Python+Developer;⚡+C%2B%2B+Programmer)](https://git.io/typing-svg)
+
+<br>
+
+> 🎓 AI Student at **Menoufia University** passionate about pushing the boundaries of technology.
+> On a mission to build intelligent systems that make a real difference. 🚀
+> *"Code. Learn. Innovate. Repeat."*
 
 <br>
 
@@ -33,12 +39,10 @@ class AbdelrahmanFlous:
         self.name        = "Abdelrahman Mohamed Flous"
         self.university  = "🏛️  Menoufia University"
         self.faculty     = "🤖  Artificial Intelligence"
+        self.languages   = ["🐍  Python", "⚡  C++"]
         self.interests   = [
-            "🧠  Machine Learning",
-            "🔬  Deep Learning",
-            "👁️  Computer Vision",
-            "💬  Natural Language Processing",
-            "📊  Data Science"
+            "📊  Data Science",
+            "🤖  Artificial Intelligence"
         ]
         self.currently   = "Exploring the depths of AI 🚀"
         self.contact     = "flostheking27@gmail.com"
@@ -49,7 +53,7 @@ class AbdelrahmanFlous:
 
 me = AbdelrahmanFlous()
 me.say_hi()
-` ` `
+```
 
 ---
 
@@ -60,15 +64,6 @@ me.say_hi()
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🤖 AI / ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -95,7 +90,7 @@ me.say_hi()
   </tr>
   <tr>
     <td>🌱 Learning</td>
-    <td><strong>Deep Learning & Neural Networks</strong></td>
+    <td><strong>Python & C++ for AI Development</strong></td>
   </tr>
   <tr>
     <td>🎯 Goal</td>
@@ -103,7 +98,7 @@ me.say_hi()
   </tr>
   <tr>
     <td>💬 Ask me about</td>
-    <td><strong>AI, Machine Learning, Computer Vision</strong></td>
+    <td><strong>AI & Data Science</strong></td>
   </tr>
   <tr>
     <td>📫 Reach me</td>
@@ -159,6 +154,6 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-```
+
 
 > ⚠️ **مهم:** السطر ` ` ` شيل المسافات وخليه ` ``` ` عادي. ✅
